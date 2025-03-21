@@ -7,6 +7,9 @@ When a computer starts, the BIOS loads the Master Boot Record (MBR), which holds
 
 Everything after the bootloader is my own work, and I've pushed the source code to this repository in the hope that it might help you understand the inner workings of operating systems. Feel free to explore the code, learn from it, and contribute if you're interested!
 
+Here's what I have so far -
+
+![Screenshot]('..\images\1.jpg)
 
 
 
