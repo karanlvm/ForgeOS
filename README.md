@@ -9,7 +9,7 @@ Everything after the bootloader is my own work, and I've pushed the source code 
 
 Here's what I have so far -
 
-![Screenshot]('..\images\1.jpg)
+![Screenshot](images/1.jpg)
 
 
 
